@@ -20,5 +20,5 @@ First, download the  files on ubuntu. second follow the steps will show you how 
 
 # How to use 
 ![](cscl.png)
-
-
+![](cssu.png)
+![](cstr.png)
