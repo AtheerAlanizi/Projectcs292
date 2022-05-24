@@ -23,4 +23,4 @@ First, download the  files on ubuntu. second follow the steps will show you how 
 ![](cstr.png)
 <img src="images/cscl.png">
 
-<img src="images/cssu.png""width="100>
+<img src="images/cssu.png""width=100">
