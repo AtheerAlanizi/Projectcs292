@@ -22,4 +22,4 @@ First, download the  files on ubuntu. second follow the steps will show you how 
 ![](cscl.png)
 ![](cssu.png)
 ![](cstr.png)
-<img src="images/cscl.png>
+<img src="images/cscl.png">
