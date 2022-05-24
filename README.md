@@ -8,7 +8,7 @@
 
 # Introduction
 # Installation
-First, download the  files on ubuntu. second follow the steps will show you how to set up a Node js server to run the core system of the machine learning (fasttext tool for text classification) on input from a user.
+First, we download the  files on ubuntu. second follow the steps will show you how to set up a Node js server to run the core system of the machine learning (fasttext tool for text classification) on input from a user.
 1.	Download npm: sudo apt install npm
 2.	Create and open project folder: mkdir [your choice name]
 3.	Initialize requirements: npm init -y
@@ -19,6 +19,12 @@ First, download the  files on ubuntu. second follow the steps will show you how 
 8.	Run index.js: node index.js
 
 # How to use 
+When we did install it, the last command will show you your port number,open your browser and write "localhost:8000". 
+this picture show you what will appear,then type any food that exist in "trian.text" and press submit
+
 ![](cscl.png)
-![](cstr.png)
+the result that will appears "success"
 ![](cssu.png)
+in the terminal wil show you all labels correspoding to the word you write
+![](cstr.png)
+
