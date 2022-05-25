@@ -24,12 +24,12 @@ this picture show you what will appear,then type any food that exist in "trian.t
 
 ![](cscl.png)
 
-the result that will appears "success"
+The result that will appears "success"
 
 ![](cssu.png)
 
 
-in the terminal wil show you all labels correspoding to the word you write
+In the terminal wil show you all labels correspoding to the word you write
 
 ![](cstr.png)
 
