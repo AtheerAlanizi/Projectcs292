@@ -7,6 +7,7 @@
 - Releases
 
 # Introduction
+The project about software engineering 2 is consists of two release and testing. 
 # Installation
 First, we download the  files on ubuntu. second follow the steps will show you how to set up a Node js server to run the core system of the machine learning (fasttext tool for text classification) on input from a user.
 1.	Download npm: sudo apt install npm
