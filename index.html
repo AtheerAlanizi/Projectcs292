@@ -54,14 +54,12 @@ border: 5px outset rgb(24, 73, 30);
 		
 	}
 
-
 	function convert_to_table (text){ 
 		const roww = JSON.parse(text);
 	for (var r in roww){
 		delete roww[r]["value"];
 	}
 
-	
 	var col = [];
 	for (var i = 0; i < roww.length; i++) {
 		for (var key in roww[i]) {
