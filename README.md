@@ -33,4 +33,16 @@ The result that will appears "success"
 In the terminal wil show you all labels correspoding to the word you write
 
 ![](cstr.png)
+# Releases
+We built two releases first one was v0.0.0 .
+
+the second was v0.1.0 .
+We changed UI and add "clear" button as shown in the picture
+![](new.png)
+![](new2.png)
+![](new3.png)
+If the user clicks the submit button it should dynamically show the result in a table but it didn't show up in my html page although there's a code for the table. This's one of the problems I faced, it's possibly becouse of my lack of knowledge in HTML & JavaScript but i did what I could do.
+
+# Travis CI tool integration
+Unfortunately Travis CI tool integration did not work we tried to fix the issue, but run out of time.
 
