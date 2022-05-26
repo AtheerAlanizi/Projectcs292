@@ -46,4 +46,4 @@ If the user clicks the submit button it should dynamically show the result in a 
 # Travis CI tool integration
 Unfortunately Travis CI tool integration did not work we tried to fix the issue, but run out of time.
 # Contributors
-Prepared by Noura Alosaimi, Lojain Alzaide & Njoud Mohammed
+Prepared by Noura Alosaimi, Lojain Alzaide & Njoud Mohammed, Fay aldhwihi
