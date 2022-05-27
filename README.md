@@ -38,9 +38,11 @@ We built two releases first one was v0.0.0 .
 
 the second was v0.1.0 .
 We changed UI and add "clear" button as shown in the picture
-![](new.png)
-![](new2.png)
-![](new3.png)
+![]file:///home/fay/Pictures/Screenshot%20from%202022-05-27%2000-33-26.png![image](https://user-images.githubusercontent.com/106281135/170606752-3b203d79-d898-4933-aa00-658a297657b6.png)
+
+![]file:///home/fay/Pictures/Screenshot%20from%202022-05-27%2000-34-05.png![image](https://user-images.githubusercontent.com/106281135/170606825-e7666947-5ba5-4055-9c63-0a7aba0e6081.png)
+
+
 If the user clicks the submit button it should dynamically show the result in a table but it didn't show up in my html page although there's a code for the table. This's one of the problems I faced, it's possibly becouse of my lack of knowledge in HTML & JavaScript but i did what I could do.
 
 # Travis CI tool integration
