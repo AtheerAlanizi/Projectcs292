@@ -38,11 +38,11 @@ We built two releases first one was v0.0.0 .
 
 the second was v0.1.0 .
 We changed UI and add "clear" button as shown in the picture
-![]file:///home/fay/Pictures/Screenshot%20from%202022-05-27%2000-33-26.png![image]
+
 ![image](https://user-images.githubusercontent.com/106355618/170608495-50720b4e-7bb4-441b-b628-df4b5d2e2163.png)
 
 
-![]file:///home/fay/Pictures/Screenshot%20from%202022-05-27%2000-34-05.png![image](https://user-images.githubusercontent.com/106281135/170606825-e7666947-5ba5-4055-9c63-0a7aba0e6081.png)
+![image](https://user-images.githubusercontent.com/106355618/170609135-8b4021fb-d1be-4e27-8acd-bb9397ee98fb.png)
 
 
 If the user clicks the submit button it should dynamically show the result in a table but it didn't show up in my html page although there's a code for the table. This's one of the problems I faced, it's possibly becouse of my lack of knowledge in HTML & JavaScript but i did what I could do.
