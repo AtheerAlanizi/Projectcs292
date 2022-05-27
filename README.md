@@ -38,7 +38,9 @@ We built two releases first one was v0.0.0 .
 
 the second was v0.1.0 .
 We changed UI and add "clear" button as shown in the picture
-![]file:///home/fay/Pictures/Screenshot%20from%202022-05-27%2000-33-26.png![image](https://user-images.githubusercontent.com/106281135/170606752-3b203d79-d898-4933-aa00-658a297657b6.png)
+![]file:///home/fay/Pictures/Screenshot%20from%202022-05-27%2000-33-26.png![image]
+![image](https://user-images.githubusercontent.com/106355618/170608495-50720b4e-7bb4-441b-b628-df4b5d2e2163.png)
+
 
 ![]file:///home/fay/Pictures/Screenshot%20from%202022-05-27%2000-34-05.png![image](https://user-images.githubusercontent.com/106281135/170606825-e7666947-5ba5-4055-9c63-0a7aba0e6081.png)
 
@@ -48,4 +50,4 @@ If the user clicks the submit button it should dynamically show the result in a 
 # Travis CI tool integration
 Unfortunately Travis CI tool integration did not work we tried to fix the issue, but run out of time.
 # Contributors
-Prepared by Noura Alosaimi, Lojain Alzaide & Njoud Mohammed, Fay aldhwihi
+Prepared by Noura Alosaimi, Lojain Alzaide & Njoud Mohammed, Fay aldhwihi , AtheerAlanizi
